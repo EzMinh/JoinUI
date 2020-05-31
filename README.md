@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/EzMinh/ID.svg)](http://hits.dwyl.com/EzMinh/JoinUI)
+[![HitCount](http://hits.dwyl.com/EzMinh/JoinUI.svg)](http://hits.dwyl.com/EzMinh/JoinUI)
 ![GitHub All Releases](https://img.shields.io/github/downloads/ezminh/joinui/total)
 [![GitHub license](https://img.shields.io/github/license/EzMinh/ID)](https://github.com/EzMinh/JoinUI/blob/master/LICENSE)
 
