@@ -1,0 +1,3 @@
+form.title: Welcome to server
+form.content: Hi, {NAME} {LINE} Welcome to server
+close.btn: Close
