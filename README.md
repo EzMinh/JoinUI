@@ -4,6 +4,8 @@
 
 # JoinUI 1.0.0
 **Show a UI form when players join server**
+# Require
+- FormAPI
 # Config
 ```
 form.title: Welcome to server
