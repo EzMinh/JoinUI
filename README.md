@@ -4,6 +4,14 @@
 
 # JoinUI 1.0.0
 **Show a UI form when players join server**
+# Config
+```
+form.title: Welcome to server
+form.content: Hi, {NAME} {LINE} Welcome to server
+close.btn: Close
+{NAME} is player name
+{LINE} to make new line
+```
 # License and copyright
 [License](https://github.com/EzMinh/JoinUI/blob/master/LICENSE) <br/>
 © 2020 EzMinh
