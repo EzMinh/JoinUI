@@ -18,6 +18,10 @@ class Main extends PluginBase implements Listener {
         $this->saveDefaultConfig();
         $this->cfg = new Config($this->getDataFolder() . "config.yml", Config::YAML);
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
+        if($this->getServer()->getPluginManager()->getPlugin("FormAPI") == null) {
+            $this->getLogger()->warning(C::RED . "Please download FormAPI!");
+            $this->getServer()->getPluginManager()->disablePlugin($this->getServer()->getPluginManager()->getPlugin("JoinUI"));
+        }
     }
     public function onJoin(PlayerJoinEvent $e) {
         $player = $e->getPlayer();
