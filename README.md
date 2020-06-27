@@ -2,7 +2,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/ezminh/joinui/total)
 [![GitHub license](https://img.shields.io/github/license/EzMinh/ID)](https://github.com/EzMinh/JoinUI/blob/master/LICENSE)
 
-# JoinUI 1.0.3
+# JoinUI 1.0.4
 **Show a UI form when players join server**
 # Require
 - FormAPI
